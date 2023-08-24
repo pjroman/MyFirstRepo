@@ -1,0 +1,1 @@
+Name the file ConflictBranchFile2.txt then click Commit new File to create it. Back on the repository page, it shows that ConflictBranch is active and the file exists.
